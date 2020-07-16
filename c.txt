@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 cat
 car
 carry
+=======
+car
+>>>>>>> feature-c
